@@ -1016,7 +1016,7 @@
                                     "jsx-77093f95e6f59e37 h-[2px] w-60 bg-gradient-to-r from-[#2f9ed0] via-transparent to-[#d02fc2] opacity-60",
                                 }),
                                 (0, t.jsx)("a", {
-                                  href: "https://spywolf.co/audits/EtherChainAI_0xE8AA1AD793ed17C9115DB1eEb9998Ea80c72f380.pdf",
+                                  href: "https://spywolf.co/audits/EtherChainAI_0xcomingsoon.pdf",
                                   className: "jsx-77093f95e6f59e37 w-[35%]",
                                   children: (0, t.jsx)("img", {
                                     src: "/images/spywolf.png",
@@ -1084,7 +1084,7 @@
                             "jsx-77093f95e6f59e37 h-[2px] w-60 bg-gradient-to-r from-[#2f9ed0] via-transparent to-[#d02fc2] opacity-60",
                         }),
                         (0, t.jsx)("a", {
-                          href: "https://spywolf.co/audits/EtherChainAI_0xE8AA1AD793ed17C9115DB1eEb9998Ea80c72f380.pdf",
+                          href: "https://spywolf.co/audits/EtherChainAI_0xcomingsoon.pdf",
                           className: "jsx-77093f95e6f59e37 w-[100%]",
                           children: (0, t.jsx)("img", {
                             src: "/images/spywolf.png",

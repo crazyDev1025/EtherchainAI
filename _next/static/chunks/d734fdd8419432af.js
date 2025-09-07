@@ -2230,7 +2230,7 @@
                                       (0, r.jsx)("div", {
                                         className: "min-w-[298px] p-1",
                                         children: (0, r.jsx)(s.default, {
-                                          href: "/blogs",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                           className:
                                             "flex flex-col justify-center items-center  text-gray-900 space-x-3 p-3 rounded-lg hover:bg-white dark:hover:bg-gray-950 transition-colors h-full",
                                           children: (0, r.jsx)("div", {

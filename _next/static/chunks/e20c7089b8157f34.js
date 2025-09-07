@@ -2071,7 +2071,7 @@
                                       (0, r.jsx)("div", {
                                         className: "min-w-[298px] p-1",
                                         children: (0, r.jsx)(a.default, {
-                                          href: "/blogs",
+                                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                           className:
                                             "flex flex-col justify-center items-center  text-gray-900 space-x-3 p-3 rounded-lg hover:bg-white dark:hover:bg-gray-950 transition-colors h-full",
                                           children: (0, r.jsx)("div", {
@@ -4045,7 +4045,7 @@
                                   }),
                                   (0, r.jsx)("li", {
                                     children: (0, r.jsxs)(a.default, {
-                                      href: "/#presale-form",
+                                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                                       className:
                                         "flex items-center justify-between px-4 py-1 text-gray-900 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-900/50 rounded-lg transition-all duration-200 group",
                                       children: [

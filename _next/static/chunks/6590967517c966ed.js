@@ -38,15 +38,15 @@
                         (0, t.jsx)(l.default, {
                           variant: 1,
                           children: (0, t.jsx)(i.default, {
-                            href: "#",
-                            children: "Join Presale Now",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            children: "Buy Now",
                           }),
                         }),
                         (0, t.jsx)(l.default, {
                           variant: 2,
                           children: (0, t.jsx)(i.default, {
-                            href: "/blogs",
-                            children: "Learn More",
+                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                            children: "Chart",
                           }),
                         }),
                       ],

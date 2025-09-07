@@ -256,7 +256,7 @@
                                 (0, s.jsx)("span", {
                                   className:
                                     "text-gray-900 dark:text-white font-medium",
-                                  children: "Presale",
+                                  children: "Ownership",
                                 }),
                               ],
                             }),
@@ -266,13 +266,13 @@
                                 (0, s.jsx)("span", {
                                   className:
                                     "text-[#0B101C] dark:text-gray-300 font-semibold",
-                                  children: "50%",
+                                  children: "Renounced",
                                 }),
-                                (0, s.jsx)("div", {
-                                  className:
-                                    "text-xs text-gray-500 dark:text-gray-400",
-                                  children: "25,000,000 tokens",
-                                }),
+                                // (0, s.jsx)("div", {
+                                //   className:
+                                //     "text-xs text-gray-500 dark:text-gray-400",
+                                //   children: "Renounced",
+                                // }),
                               ],
                             }),
                           ],
@@ -483,7 +483,7 @@
                                 className:
                                   "text-xs bg-gray-100 dark:bg-gray-800 px-3 py-2 rounded font-mono text-[#0B101C] dark:text-gray-200 flex-1 overflow-clip",
                                 children:
-                                  "0xE8AA1AD793ed17C9115DB1eEb9998Ea80c72f380",
+                                  "0xcomingsoon",
                               }),
                             }),
                             (0, s.jsxs)("div", {
@@ -515,7 +515,7 @@
                                   role: "button",
                                   onClick: () => {
                                     navigator.clipboard.writeText(
-                                      "0xE8AA1AD793ed17C9115DB1eEb9998Ea80c72f380"
+                                      "0xcomingsoon"
                                     ),
                                       r(!1),
                                       requestAnimationFrame(() => {

@@ -771,7 +771,7 @@
           1337: "0x6dD1d5459CfF7eD8Bd60FdD08fb461A5A849469B",
         },
         S = {
-          1: "0xE8AA1AD793ed17C9115DB1eEb9998Ea80c72f380",
+          1: "0xcomingsoon",
           1337: "0x8356cD34362cF1E4d21Ea6A3321105370c40C69f",
         },
         D = {

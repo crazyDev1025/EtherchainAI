@@ -181,7 +181,7 @@
                             (0, t.jsx)(
                               r.default,
                               {
-                                href: "/blogs",
+                                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
                                 className:
                                   "px-4 py-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full text-white hover:bg-white/20 transition-all duration-300 text-sm",
                                 children: e,
