@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK=globalThis.TURBOPACK||[]).push(["object"==typeof document?document.currentScript:void 0,{63434:t=>{"use strict";t.s({cursorSvg:()=>r});var n=t.i(431006);function o(){let t=(0,n._)([' <svg fill="none" viewBox="0 0 13 4">\n  <path fill="currentColor" d="M.5 0h12L8.9 3.13a3.76 3.76 0 0 1-4.8 0L.5 0Z" />\n</svg>']);return o=function(){return t},t}t.i(561791);let r=(0,t.i(898287).svg)(o())}}]);
+
+//# sourceMappingURL=d157a89b1b183167.js.map

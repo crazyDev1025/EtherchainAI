@@ -296,7 +296,7 @@
                       index: 0,
                       question: "How do I contact the EtherChainAI team?",
                       answer:
-                        "You can reach the Etherchain AI team directly through our official Telegram Support Channel or via email at support@etherchain.ai.",
+                        "You can reach the Etherchain AI team directly through our official Telegram Support Channel or via email at .",
                       open: r,
                       onToggle: d,
                     }),

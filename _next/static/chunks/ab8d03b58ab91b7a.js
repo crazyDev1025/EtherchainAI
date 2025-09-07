@@ -928,19 +928,19 @@
                 }),
                 (0, t.jsxs)("div", {
                   className:
-                    "jsx-77093f95e6f59e37 relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16 justify-center",
+                    "jsx-77093f95e6f59e37 relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16",
                   children: [
                     (0, t.jsxs)("div", {
                       className:
-                        "jsx-77093f95e6f59e37 lg:grid lg:grid-cols-12 gap-8 lg:gap-12",
+                        "jsx-77093f95e6f59e37 flex flex-col justify-center",
                       children: [
                         (0, t.jsxs)("div", {
                           className:
-                            "jsx-77093f95e6f59e37 lg:col-span-7 xl:col-span-8 text-center lg:text-left lg:pt-16 mt-3 lg:mt-0",
+                            "jsx-77093f95e6f59e37 lg:col-span-7 xl:col-span-8 text-center lg:text-left lg:pt-16 mt-3 lg:mt-0 flex flex-col items-center",
                           children: [
                             (0, t.jsxs)("h1", {
                               className:
-                                "jsx-77093f95e6f59e37 text-3xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-900 dark:text-white mb-6 lg:mb-8 leading-tight",
+                                "jsx-77093f95e6f59e37 text-3xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-900 dark:text-white mb-6 lg:mb-8 leading-tight flex flex-col items-center",
                               children: [
                                 (0, t.jsx)("span", {
                                   className:
@@ -1001,9 +1001,29 @@
                                   className:
                                     "jsx-77093f95e6f59e37 h-[2px] w-60 bg-gradient-to-r from-[#2f9ed0] via-transparent to-[#d02fc2] opacity-60",
                                 }),
+                                (0, t.jsx)("a", {
+                                  href: "https://app.solidproof.io/projects/etherchain-ai",
+                                  className: "jsx-77093f95e6f59e37 w-[35%]",
+                                  children: (0, t.jsx)("img", {
+                                    src: "/images/solid-proof.png",
+                                    alt: "Solid Proof",
+                                    className:
+                                      "jsx-77093f95e6f59e37  bg-gray-950 dark:bg-transparent rounded-[10px] p-1 border-2 border-transparent transition-all duration-300 transform hover:-translate-y-2 hover:border-[#2f9ed0]",
+                                  }),
+                                }),
                                 (0, t.jsx)("div", {
                                   className:
                                     "jsx-77093f95e6f59e37 h-[2px] w-60 bg-gradient-to-r from-[#2f9ed0] via-transparent to-[#d02fc2] opacity-60",
+                                }),
+                                (0, t.jsx)("a", {
+                                  href: "https://spywolf.co/audits/EtherChainAI_0xE8AA1AD793ed17C9115DB1eEb9998Ea80c72f380.pdf",
+                                  className: "jsx-77093f95e6f59e37 w-[35%]",
+                                  children: (0, t.jsx)("img", {
+                                    src: "/images/spywolf.png",
+                                    alt: "Spywolf",
+                                    className:
+                                      "jsx-77093f95e6f59e37  bg-gray-950 dark:bg-transparent rounded-[10px] p-1 border-2 border-transparent transition-all duration-300 transform hover:-translate-y-2 hover:border-[#d02fc2]",
+                                  }),
                                 }),
                                 (0, t.jsx)("div", {
                                   className:
@@ -1039,10 +1059,46 @@
                             }),
                           ],
                         }),
-                        (0, t.jsx)(C, {}),
                       ],
                     }),
-                  
+                    (0, t.jsxs)("div", {
+                      className:
+                        "jsx-77093f95e6f59e37 lg:hidden flex justify-center items-center gap-4 w-[95%] mb-7 ml-3 mt-7",
+                      children: [
+                        (0, t.jsx)("div", {
+                          className:
+                            "jsx-77093f95e6f59e37 h-[2px] w-60 bg-gradient-to-r from-[#2f9ed0] via-transparent to-[#d02fc2] opacity-60",
+                        }),
+                        (0, t.jsx)("a", {
+                          href: "https://app.solidproof.io/projects/etherchain-ai",
+                          className: "jsx-77093f95e6f59e37 w-[100%]",
+                          children: (0, t.jsx)("img", {
+                            src: "/images/solid-proof.png",
+                            alt: "Solid Proof",
+                            className:
+                              "jsx-77093f95e6f59e37  bg-gray-950 dark:bg-transparent rounded-[10px] p-1 border-2 border-transparent transition-all duration-300 transform -translate-y-2 border-[#2f9ed0]",
+                          }),
+                        }),
+                        (0, t.jsx)("div", {
+                          className:
+                            "jsx-77093f95e6f59e37 h-[2px] w-60 bg-gradient-to-r from-[#2f9ed0] via-transparent to-[#d02fc2] opacity-60",
+                        }),
+                        (0, t.jsx)("a", {
+                          href: "https://spywolf.co/audits/EtherChainAI_0xE8AA1AD793ed17C9115DB1eEb9998Ea80c72f380.pdf",
+                          className: "jsx-77093f95e6f59e37 w-[100%]",
+                          children: (0, t.jsx)("img", {
+                            src: "/images/spywolf.png",
+                            alt: "Spywolf",
+                            className:
+                              "jsx-77093f95e6f59e37  bg-gray-950 dark:bg-transparent rounded-[10px] p-1 border-2 border-transparent transition-all duration-300 transform -translate-y-2 border-[#2f9ed0]",
+                          }),
+                        }),
+                        (0, t.jsx)("div", {
+                          className:
+                            "jsx-77093f95e6f59e37 h-[2px] w-60 bg-gradient-to-r from-[#2f9ed0] via-transparent to-[#d02fc2] opacity-60",
+                        }),
+                      ],
+                    }),
                     (0, t.jsxs)("div", {
                       className:
                         "jsx-77093f95e6f59e37 lg:hidden grid grid-cols-2 gap-6 mt-12 max-w-sm mx-auto",

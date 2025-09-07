@@ -2517,6 +2517,62 @@
                                         }),
                                       ],
                                     }),
+                                    
+                                    (0, r.jsxs)(a.default, {
+                                      href: "ttps://linktr.ee/Etherchain.Ai",
+                                      target: "_blank",
+                                      rel: "noopener noreferrer",
+                                      className:
+                                        "flex items-center justify-between px-4 py-3 text-gray-900 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-950 hover:text-ethai dark:hover:text-ethai transition-all duration-300 group",
+                                      children: [
+                                        (0, r.jsxs)("div", {
+                                          className: "flex items-center",
+                                          children: [
+                                            (0, r.jsx)("div", {
+                                              className:
+                                                "w-8 h-8 rounded-full bg-purple-100 dark:bg-purple-900/30 flex items-center justify-center mr-3 group-hover:bg-purple-200 dark:group-hover:bg-purple-800/50 transition-colors",
+                                              children: (0, r.jsx)("svg", {
+                                                className:
+                                                  "w-4 h-4 text-ethai dark:text-ethai",
+                                                fill: "currentColor",
+                                                viewBox: "0 0 24 24",
+                                                children: (0, r.jsx)("path", {
+                                                  d: "M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1",
+                                                }),
+                                              }),
+                                            }),
+                                            (0, r.jsxs)("div", {
+                                              className: "flex flex-col",
+                                              children: [
+                                                (0, r.jsx)("span", {
+                                                  className: "font-medium",
+                                                  children: "Linktree",
+                                                }),
+                                                (0, r.jsx)("span", {
+                                                  className:
+                                                    "text-xs text-gray-500 dark:text-gray-400",
+                                                  children:
+                                                    "Follow us on Linktree",
+                                                }),
+                                              ],
+                                            }),
+                                          ],
+                                        }),
+                                        (0, r.jsx)("svg", {
+                                          className:
+                                            "w-4 h-4 text-gray-400 group-hover:text-ethai dark:group-hover:text-ethai transform group-hover:translate-x-1 transition-all duration-300",
+                                          fill: "none",
+                                          stroke: "currentColor",
+                                          viewBox: "0 0 24 24",
+                                          children: (0, r.jsx)("path", {
+                                            strokeLinecap: "round",
+                                            strokeLinejoin: "round",
+                                            strokeWidth: "2",
+                                            d: "M9 5l7 7-7 7",
+                                          }),
+                                        }),
+                                      ],
+                                    }),
                                     (0, r.jsxs)(a.default, {
                                       href: "/forum",
                                       target: "_blank",
@@ -3725,6 +3781,8 @@
                                   "Telegram",
                                 ],
                               }),
+                              
+                              
                               (0, r.jsxs)(a.default, {
                                 href: "/forum",
                                 target: "_blank",
@@ -3987,7 +4045,7 @@
                                   }),
                                   (0, r.jsx)("li", {
                                     children: (0, r.jsxs)(a.default, {
-                                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                                      href: "/#presale-form",
                                       className:
                                         "flex items-center justify-between px-4 py-1 text-gray-900 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-900/50 rounded-lg transition-all duration-200 group",
                                       children: [

@@ -104,8 +104,11 @@
                   data-nimg="1"
                   class="etherchain-logo"
                   style="color: transparent"
-
-                  src="/logo_alpha.webp"
+                  srcset="
+                    /_next/image?url=%2Flogo_alpha.webp&amp;w=64&amp;q=75  1x,
+                    /_next/image?url=%2Flogo_alpha.webp&amp;w=128&amp;q=75 2x
+                  "
+                  src="/_next/image?url=%2Flogo_alpha.webp&amp;w=128&amp;q=75"
                 />
               </div>
               <span
@@ -453,8 +456,11 @@
                 data-nimg="1"
                 class="w-full h-full etherchain-logo"
                 style="color: transparent"
-
-                src="/logo_alpha.webp"
+                srcset="
+                  /_next/image?url=%2Flogo_alpha.webp&amp;w=64&amp;q=75  1x,
+                  /_next/image?url=%2Flogo_alpha.webp&amp;w=128&amp;q=75 2x
+                "
+                src="/_next/image?url=%2Flogo_alpha.webp&amp;w=128&amp;q=75"
               />
             </div>
             <span
@@ -507,7 +513,10 @@
               data-nimg="1"
               class="w-full h-full etherchain-logo"
               style="color: transparent"
-
+              srcset="
+                /_next/image?url=%2Flogo_alpha.webp&amp;w=256&amp;q=75 1x,
+                /_next/image?url=%2Flogo_alpha.webp&amp;w=384&amp;q=75 2x
+              "
               src="/_next/image?url=%2Flogo_alpha.webp&amp;w=384&amp;q=75"
             />
           </div>
@@ -933,6 +942,13 @@
               Trusted auditor of DeFi, NFT, and Web3 smart contracts. SpyWolf
               focuses on proactive detection and zero-day prevention.
             </p>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-block relative z-10 bg-black text-white dark:bg-white dark:text-black px-6 py-2 rounded-full font-semibold transition-all hover:shadow-lg hover:-translate-y-0.5"
+              href="https://spywolf.co/audits/EtherChainAI_0xE8AA1AD793ed17C9115DB1eEb9998Ea80c72f380.pdf"
+              >See Audit</a
+            >
           </div>
         </div>
       </div>
@@ -994,7 +1010,7 @@
               </li>
               <li>
                 <a
-                  href="/faq"
+                  href="/#faq"
                   class="footer-link hover:text-ethai dark:hover:text-ethai transition-colors"
                   >FAQs</a
                 >
@@ -1044,7 +1060,32 @@
               </li>
             </ul>
           </div>
-
+          <div>
+            <h4 class="font-semibold mb-4 text-ethai dark:text-ethai">Legal</h4>
+            <ul class="space-y-2 text-sm text-gray-900 dark:text-gray-400">
+              <li>
+                <a
+                  href="/privacy"
+                  class="footer-link hover:text-ethai dark:hover:text-ethai transition-colors"
+                  >Privacy Policy</a
+                >
+              </li>
+              <li>
+                <a
+                  href="/risk"
+                  class="footer-link hover:text-ethai dark:hover:text-ethai transition-colors"
+                  >Risk Disclosures</a
+                >
+              </li>
+              <li>
+                <a
+                  href="/terms"
+                  class="footer-link hover:text-ethai dark:hover:text-ethai transition-colors"
+                  >Terms and Conditions</a
+                >
+              </li>
+            </ul>
+          </div>
           <div>
             <h4 class="font-semibold mb-4 text-ethai dark:text-ethai">
               Blockchain
@@ -1113,7 +1154,13 @@
                   >Developer Grant</a
                 >
               </li>
-
+              <li>
+                <a
+                  href="/dashboard/voting"
+                  class="footer-link hover:text-ethai dark:hover:text-ethai transition-colors"
+                  >Governance Voting</a
+                >
+              </li>
               <li>
                 <a
                   href="/contact"
@@ -1142,20 +1189,12 @@
                   >Telegram</a
                 >
               </li>
-              
-              
+
               <li>
                 <a
-                  href="https://coinmarketcap.com/community/profile/EtherchainAi/"
+                  href="mailto:"
                   class="footer-link hover:text-ethai dark:hover:text-ethai transition-colors"
-                  >CoinMarketCap</a
-                >
-              </li>
-              <li>
-                <a
-                  href="mailto:support@etherchain.ai"
-                  class="footer-link hover:text-ethai dark:hover:text-ethai transition-colors"
-                  >Support Email</a
+                  ></a
                 >
               </li>
             </ul>
@@ -1175,8 +1214,11 @@
                 data-nimg="1"
                 class="w-full h-full etherchain-logo"
                 style="color: transparent"
-
-                src="/logo_alpha.webp"
+                srcset="
+                  /_next/image?url=%2Flogo_alpha.webp&amp;w=64&amp;q=75  1x,
+                  /_next/image?url=%2Flogo_alpha.webp&amp;w=128&amp;q=75 2x
+                "
+                src="/_next/image?url=%2Flogo_alpha.webp&amp;w=128&amp;q=75"
               />
             </div>
             <span class="text-2xl font-bold text-gray-900 dark:text-white"
@@ -1244,7 +1286,7 @@
     <script>
       self.__next_f.push([
         1,
-        '8:["$","ul",null,{"className":"space-y-2 text-sm text-gray-900 dark:text-gray-400","children":[["$","li",null,{"children":["$","a",null,{"href":"/api-docs","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Documentation"}]}],["$","li",null,{"children":["$","a",null,{"href":"/roadmap","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Roadmap"}]}],["$","li",null,{"children":["$","a",null,{"href":"/audit","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Audits \u0026 KYC"}]}],["$","li",null,{"children":["$","a",null,{"href":"/api-docs","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"API References"}]}],["$","li",null,{"children":["$","a",null,{"href":"/faq","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"FAQs"}]}]]}]\n',
+        '8:["$","ul",null,{"className":"space-y-2 text-sm text-gray-900 dark:text-gray-400","children":[["$","li",null,{"children":["$","a",null,{"href":"/api-docs","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Documentation"}]}],["$","li",null,{"children":["$","a",null,{"href":"/roadmap","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Roadmap"}]}],["$","li",null,{"children":["$","a",null,{"href":"/audit","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Audits \u0026 KYC"}]}],["$","li",null,{"children":["$","a",null,{"href":"/api-docs","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"API References"}]}],["$","li",null,{"children":["$","a",null,{"href":"/#faq","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"FAQs"}]}]]}]\n',
       ]);
     </script>
     <script>
@@ -1256,7 +1298,7 @@
     <script>
       self.__next_f.push([
         1,
-        'a:["$","div",null,{"children":[]}]\n',
+        'a:["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold mb-4 text-ethai dark:text-ethai","children":"Legal"}],["$","ul",null,{"className":"space-y-2 text-sm text-gray-900 dark:text-gray-400","children":[["$","li",null,{"children":["$","a",null,{"href":"/privacy","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Privacy Policy"}]}],["$","li",null,{"children":["$","a",null,{"href":"/risk","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Risk Disclosures"}]}],["$","li",null,{"children":["$","a",null,{"href":"/terms","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Terms and Conditions"}]}]]}]]}]\n',
       ]);
     </script>
     <script>
@@ -1268,13 +1310,13 @@
     <script>
       self.__next_f.push([
         1,
-        'c:["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold mb-4 text-ethai dark:text-ethai","children":"Community"}],["$","ul",null,{"className":"space-y-2 text-sm text-gray-900 dark:text-gray-400","children":[["$","li",null,{"children":["$","a",null,{"href":"/forum","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Community Site"}]}],["$","li",null,{"children":["$","a",null,{"href":"/grant","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Developer Grant"}]}],["$","li",null,{"children":["$","a",null,{"href":"/contact","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Bug Reports"}]}]]}]]}]\n',
+        'c:["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold mb-4 text-ethai dark:text-ethai","children":"Community"}],["$","ul",null,{"className":"space-y-2 text-sm text-gray-900 dark:text-gray-400","children":[["$","li",null,{"children":["$","a",null,{"href":"/forum","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Community Site"}]}],["$","li",null,{"children":["$","a",null,{"href":"/grant","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Developer Grant"}]}],["$","li",null,{"children":["$","a",null,{"href":"/dashboard/voting","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Governance Voting"}]}],["$","li",null,{"children":["$","a",null,{"href":"/contact","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Bug Reports"}]}]]}]]}]\n',
       ]);
     </script>
     <script>
       self.__next_f.push([
         1,
-        'd:["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold mb-4 text-ethai dark:text-ethai","children":"Socials"}],["$","ul",null,{"className":"space-y-2 text-sm text-gray-900 dark:text-gray-400","children":[["$","li",null,{"children":["$","a",null,{"href":"https://x.com/EtherchainAi","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Twitter (X)"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://t.me/+lRBI5QAnotZiNDA1","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Telegram"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://coinmarketcap.com/community/profile/EtherchainAi/","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"CoinMarketCap"}]}],["$","li",null,{"children":["$","a",null,{"href":"mailto:support@etherchain.ai","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Support Email"}]}]]}]]}]\n',
+        'd:["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold mb-4 text-ethai dark:text-ethai","children":"Socials"}],["$","ul",null,{"className":"space-y-2 text-sm text-gray-900 dark:text-gray-400","children":[["$","li",null,{"children":["$","a",null,{"href":"https://x.com/EtherchainAi","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Twitter (X)"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://t.me/+lRBI5QAnotZiNDA1","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":"Telegram"}]}],["$","li",null,{"children":["$","a",null,{"href":"mailto:","className":"footer-link hover:text-ethai dark:hover:text-ethai transition-colors","children":""}]}]]}]]}]\n',
       ]);
     </script>
     <script>
