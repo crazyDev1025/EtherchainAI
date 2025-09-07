@@ -796,7 +796,7 @@
             description:
               "Etherchain is a new ai driven blockchain based on the ethereum network.",
             icon: ["https://etherchain.ai/logo_alpha_2.png"],
-            url: "https://etherchain.ai",
+            url: "https://www.etherchainai.org",
           },
           networks: [
             {

@@ -111,7 +111,7 @@
                                     ["7a4f84edb1c123fc", [a ? "#fff" : "#000"]],
                                   ]) +
                                   " topbar-link dark:text-yellow-300 text-yellow-800 hover:text-yellow-100 underline mx-1",
-                                children: "telegram.org/EtherchainAi",
+                                children: "Join Us",
                               }),
                             ],
                           }),
@@ -139,7 +139,7 @@
                                     ["7a4f84edb1c123fc", [a ? "#fff" : "#000"]],
                                   ]) +
                                   " topbar-link dark:text-yellow-300 text-yellow-800 hover:text-yellow-100 underline mx-1",
-                                children: "telegram.org/EtherchainAi",
+                                children: "Join Us",
                               }),
                             ],
                           }),
@@ -167,7 +167,7 @@
                                     ["7a4f84edb1c123fc", [a ? "#fff" : "#000"]],
                                   ]) +
                                   " topbar-link dark:text-yellow-300 text-yellow-800 hover:text-yellow-100 underline mx-1",
-                                children: "telegram.org/EtherchainAi",
+                                children: "Join Us",
                               }),
                             ],
                           }),
