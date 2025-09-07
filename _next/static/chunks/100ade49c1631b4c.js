@@ -66,7 +66,7 @@
                       title: "Join Telegram  ",
                       description: "Learn about our protocol",
                       icon: "/images/text_line.webp",
-                      href: "https://t.me/+lRBI5QAnotZiNDA1",
+                      href: "https://t.me/EtherchainAI_portal",
                       buttonText: "Follow now",
                       className: "lg:mx-0 lg:mt-[2.5rem]",
                     },

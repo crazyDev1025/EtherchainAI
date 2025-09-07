@@ -112,7 +112,7 @@
                 "fixed left-4 z-50 top-1/2 transform -translate-y-1/2 hidden lg:flex flex-col space-y-4",
               children: [
                 (0, a.jsx)("a", {
-                  href: "https://x.com/EtherchainAi",
+                  href: "https://x.com/EtherchainAI_x",
                   className:
                     "w-12 h-12 bg-white dark:bg-gray-900 rounded-full flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110 border border-gray-200 dark:border-gray-700",
                   children: (0, a.jsx)("svg", {
@@ -125,7 +125,7 @@
                   }),
                 }),
                 (0, a.jsx)("a", {
-                  href: "https://t.me/+lRBI5QAnotZiNDA1",
+                  href: "https://t.me/EtherchainAI_portal",
                   className:
                     "w-12 h-12 bg-white dark:bg-gray-900 rounded-full flex items-center justify-center shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110 border border-gray-200 dark:border-gray-700",
                   children: (0, a.jsx)("svg", {

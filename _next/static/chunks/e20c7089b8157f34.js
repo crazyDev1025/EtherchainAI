@@ -2191,7 +2191,7 @@
                                       ],
                                     }),
                                     (0, r.jsxs)(a.default, {
-                                      href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                      href: "https://t.me/EtherchainAI_portal",
                                       className:
                                         "flex items-center justify-between px-4 py-3 text-gray-900 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-950 hover:text-ethai dark:hover:text-ethai transition-all duration-300 group",
                                       children: [
@@ -2408,7 +2408,7 @@
                                   onMouseEnter: () => j("social"),
                                   children: [
                                     (0, r.jsxs)(a.default, {
-                                      href: "https://x.com/EtherchainAi",
+                                      href: "https://x.com/EtherchainAI_x",
                                       target: "_blank",
                                       rel: "noopener noreferrer",
                                       className:
@@ -2463,7 +2463,7 @@
                                       ],
                                     }),
                                     (0, r.jsxs)(a.default, {
-                                      href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                      href: "https://t.me/EtherchainAI_portal",
                                       target: "_blank",
                                       rel: "noopener noreferrer",
                                       className:
@@ -3626,7 +3626,7 @@
                                 ],
                               }),
                               (0, r.jsxs)(a.default, {
-                                href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                href: "https://t.me/EtherchainAI_portal",
                                 className:
                                   "flex items-center py-2 text-gray-900 dark:text-gray-300 hover:text-ethai dark:hover:text-ethai",
                                 onClick: V,
@@ -3742,7 +3742,7 @@
                             className: "pl-4 py-2 space-y-2",
                             children: [
                               (0, r.jsxs)(a.default, {
-                                href: "https://x.com/EtherchainAi",
+                                href: "https://x.com/EtherchainAI_x",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className:
@@ -3762,7 +3762,7 @@
                                 ],
                               }),
                               (0, r.jsxs)(a.default, {
-                                href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                href: "https://t.me/EtherchainAI_portal",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className:

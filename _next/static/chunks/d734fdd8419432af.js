@@ -101,10 +101,10 @@
                               ]) +
                               " mb-0 b2 marquee-text mr--20 text-base font-medium py-1",
                             children: [
-                              "Etherchain Ai Presale is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
+                              "Etherchain Ai is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
                               (0, r.jsx)("a", {
                                 target: "_blank",
-                                href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                href: "https://t.me/EtherchainAI_portal",
                                 rel: "noopener noreferrer",
                                 className:
                                   i.default.dynamic([
@@ -129,10 +129,10 @@
                               ]) +
                               " mb-0 b2 marquee-text mr--20 text-base font-medium py-1",
                             children: [
-                              "Etherchain Ai Presale is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
+                              "Etherchain Ai is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
                               (0, r.jsx)("a", {
                                 target: "_blank",
-                                href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                href: "https://t.me/EtherchainAI_portal",
                                 rel: "noopener noreferrer",
                                 className:
                                   i.default.dynamic([
@@ -157,10 +157,10 @@
                               ]) +
                               " mb-0 b2 marquee-text mr--20 text-base font-medium py-1",
                             children: [
-                              "Etherchain Ai Presale is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
+                              "Etherchain Ai is Live. Etherchain Ai is a next-generation Blockchain ecosystem powered by Artificial Intelligence.",
                               (0, r.jsx)("a", {
                                 target: "_blank",
-                                href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                href: "https://t.me/EtherchainAI_portal",
                                 rel: "noopener noreferrer",
                                 className:
                                   i.default.dynamic([
@@ -2350,7 +2350,7 @@
                                       ],
                                     }),
                                     (0, r.jsxs)(s.default, {
-                                      href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                      href: "https://t.me/EtherchainAI_portal",
                                       className:
                                         "flex items-center justify-between px-4 py-3 text-gray-900 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-950 hover:text-ethai dark:hover:text-ethai transition-all duration-300 group rounded-[10px]",
                                       children: [
@@ -2567,7 +2567,7 @@
                                   onMouseEnter: () => f("social"),
                                   children: [
                                     (0, r.jsxs)(s.default, {
-                                      href: "https://x.com/EtherchainAi",
+                                      href: "https://x.com/EtherchainAI_x",
                                       target: "_blank",
                                       rel: "noopener noreferrer",
                                       className:
@@ -2622,7 +2622,7 @@
                                       ],
                                     }),
                                     (0, r.jsxs)(s.default, {
-                                      href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                      href: "https://t.me/EtherchainAI_portal",
                                       target: "_blank",
                                       rel: "noopener noreferrer",
                                       className:
@@ -3951,7 +3951,7 @@
                             className: "pl-4 py-2 space-y-2",
                             children: [
                               (0, r.jsxs)(s.default, {
-                                href: "https://x.com/EtherchainAi",
+                                href: "https://x.com/EtherchainAI_x",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className:
@@ -3971,7 +3971,7 @@
                                 ],
                               }),
                               (0, r.jsxs)(s.default, {
-                                href: "https://t.me/+lRBI5QAnotZiNDA1",
+                                href: "https://t.me/EtherchainAI_portal",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className:
