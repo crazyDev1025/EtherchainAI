@@ -301,13 +301,13 @@
                                 (0, s.jsx)("span", {
                                   className:
                                     "text-[#0B101C] dark:text-gray-300 font-semibold",
-                                  children: "25%",
+                                  children: "Locked",
                                 }),
-                                (0, s.jsx)("div", {
-                                  className:
-                                    "text-xs text-gray-500 dark:text-gray-400",
-                                  children: "12,500,000 tokens",
-                                }),
+                                // (0, s.jsx)("div", {
+                                //   className:
+                                //     "text-xs text-gray-500 dark:text-gray-400",
+                                //   children: "12,500,000 tokens",
+                                // }),
                               ],
                             }),
                           ],
@@ -326,7 +326,7 @@
                                 (0, s.jsx)("span", {
                                   className:
                                     "text-gray-900 dark:text-white font-medium",
-                                  children: "Marketing",
+                                  children: "Tax",
                                 }),
                               ],
                             }),
@@ -336,13 +336,13 @@
                                 (0, s.jsx)("span", {
                                   className:
                                     "text-[#0B101C] dark:text-gray-300 font-semibold",
-                                  children: "10%",
+                                  children: "0/0",
                                 }),
-                                (0, s.jsx)("div", {
-                                  className:
-                                    "text-xs text-gray-500 dark:text-gray-400",
-                                  children: "5,000,000 tokens",
-                                }),
+                                // (0, s.jsx)("div", {
+                                //   className:
+                                //     "text-xs text-gray-500 dark:text-gray-400",
+                                //   children: "5,000,000 tokens",
+                                // }),
                               ],
                             }),
                           ],
@@ -361,7 +361,7 @@
                                 (0, s.jsx)("span", {
                                   className:
                                     "text-gray-900 dark:text-white font-medium",
-                                  children: "Investors",
+                                  children: "Chain",
                                 }),
                               ],
                             }),
@@ -371,87 +371,18 @@
                                 (0, s.jsx)("span", {
                                   className:
                                     "text-[#0B101C] dark:text-gray-300 font-semibold",
-                                  children: "8%",
+                                  children: "Ethereum",
                                 }),
-                                (0, s.jsx)("div", {
-                                  className:
-                                    "text-xs text-gray-500 dark:text-gray-400",
-                                  children: "4,000,000 tokens",
-                                }),
+                                // (0, s.jsx)("div", {
+                                //   className:
+                                //     "text-xs text-gray-500 dark:text-gray-400",
+                                //   children: "4,000,000 tokens",
+                                // }),
                               ],
                             }),
                           ],
                         }),
-                        (0, s.jsxs)("div", {
-                          className:
-                            "flex items-center justify-between p-4 bg-white dark:bg-[#0B101C] rounded-lg shadow-sm border border-gray-200 dark:border-gray-600",
-                          children: [
-                            (0, s.jsxs)("div", {
-                              className: "flex items-center space-x-3",
-                              children: [
-                                (0, s.jsx)("div", {
-                                  className:
-                                    "w-4 h-4 bg-gradient-to-r from-blue-600 to-green-500 rounded-full",
-                                }),
-                                (0, s.jsx)("span", {
-                                  className:
-                                    "text-gray-900 dark:text-white font-medium",
-                                  children: "Giveaway & Airdrops",
-                                }),
-                              ],
-                            }),
-                            (0, s.jsxs)("div", {
-                              className: "text-right",
-                              children: [
-                                (0, s.jsx)("span", {
-                                  className:
-                                    "text-[#0B101C] dark:text-gray-300 font-semibold",
-                                  children: "5%",
-                                }),
-                                (0, s.jsx)("div", {
-                                  className:
-                                    "text-xs text-gray-500 dark:text-gray-400",
-                                  children: "2,500,000 tokens",
-                                }),
-                              ],
-                            }),
-                          ],
-                        }),
-                        (0, s.jsxs)("div", {
-                          className:
-                            "flex items-center justify-between p-4 bg-white dark:bg-[#0B101C] rounded-lg shadow-sm border border-gray-200 dark:border-gray-600",
-                          children: [
-                            (0, s.jsxs)("div", {
-                              className: "flex items-center space-x-3",
-                              children: [
-                                (0, s.jsx)("div", {
-                                  className:
-                                    "w-4 h-4 bg-gradient-to-r from-green-500 to-yellow-500 rounded-full",
-                                }),
-                                (0, s.jsx)("span", {
-                                  className:
-                                    "text-gray-900 dark:text-white font-medium",
-                                  children: "Buyback & Burn",
-                                }),
-                              ],
-                            }),
-                            (0, s.jsxs)("div", {
-                              className: "text-right",
-                              children: [
-                                (0, s.jsx)("span", {
-                                  className:
-                                    "text-[#0B101C] dark:text-gray-300 font-semibold",
-                                  children: "2%",
-                                }),
-                                (0, s.jsx)("div", {
-                                  className:
-                                    "text-xs text-gray-500 dark:text-gray-400",
-                                  children: "1,000,000 tokens",
-                                }),
-                              ],
-                            }),
-                          ],
-                        }),
+                        
                         (0, s.jsxs)("div", {
                           className:
                             "mt-8 p-6 bg-white dark:bg-[#0B101C] rounded-lg shadow-sm border border-gray-200 dark:border-gray-600",
@@ -467,7 +398,7 @@
                                 (0, s.jsx)("div", {
                                   className:
                                     "text-2xl font-bold text-ethai dark:text-ethai",
-                                  children: "50,000,000 ETHAI",
+                                  children: "1,000,000,000 ETHAI",
                                 }),
                               ],
                             }),
